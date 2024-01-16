@@ -1,0 +1,3 @@
+PRINT #0
+ITER #0
+RUN HELLO.G
